@@ -1,1 +1,1 @@
-/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/palindrome_text/target/debug/palindrome_text: /Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/palindrome_text/src/main.rs
+/Users/brianthuo/Documents/GitHub/palindrome_text/Palindrome_Text_Solution/target/debug/palindrome_text: /Users/brianthuo/Documents/GitHub/palindrome_text/Palindrome_Text_Solution/src/main.rs
